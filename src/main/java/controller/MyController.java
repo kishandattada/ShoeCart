@@ -34,7 +34,6 @@ public class MyController {
     public Shoes updateExistingRecord(@RequestBody Shoes shoe, @PathVariable("id") int id){
         return ser.updateShoeRecord(shoe, id);
     }
-
     @DeleteMapping("/shoe/{id}")
     public void deleteExistingRecord(@PathVariable("id") int id){
         ser.deleteById(id);
