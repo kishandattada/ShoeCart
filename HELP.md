@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.shopping.responsive-page-service' is invalid and this project uses 'com.shopping.responsivepageservice' instead.
+* The original package name 'com.shopping.responsive-page-com.shopping.responsivepageservice.service' is invalid and this project uses 'com.shopping.responsivepageservice' instead.
 
 # Getting Started
 
@@ -18,8 +18,8 @@ For further reference, please consider the following sections:
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web service](https://spring.io/guides/gs/rest-service/)
+* [Building a RESTful Web com.shopping.responsivepageservice.service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-* [Building a GraphQL service](https://spring.io/guides/gs/graphql-server/)
+* [Building a GraphQL com.shopping.responsivepageservice.service](https://spring.io/guides/gs/graphql-server/)
 
